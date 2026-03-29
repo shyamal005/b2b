@@ -2,7 +2,7 @@
 
 A full-stack **B2B procurement workflow platform** that enables organizations to manage purchase requests with **role-based approvals**.
 
-🔗 **Live Demo:** http://54.252.200.104:4000/
+🔗 **Live Demo:** http://54.252.200.104:4000/login
 
 ---
 
